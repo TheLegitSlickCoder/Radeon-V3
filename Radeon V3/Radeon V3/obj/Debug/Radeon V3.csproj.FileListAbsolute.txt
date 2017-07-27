@@ -1,0 +1,9 @@
+C:\Users\bagal\desktop\projects\Radeon V3\Radeon V3\bin\Debug\Radeon V3.exe.config
+C:\Users\bagal\desktop\projects\Radeon V3\Radeon V3\bin\Debug\Radeon V3.exe
+C:\Users\bagal\desktop\projects\Radeon V3\Radeon V3\bin\Debug\Radeon V3.pdb
+C:\Users\bagal\desktop\projects\Radeon V3\Radeon V3\obj\Debug\Radeon V3.csprojResolveAssemblyReference.cache
+C:\Users\bagal\desktop\projects\Radeon V3\Radeon V3\obj\Debug\Radeon_V3.Form1.resources
+C:\Users\bagal\desktop\projects\Radeon V3\Radeon V3\obj\Debug\Radeon_V3.Properties.Resources.resources
+C:\Users\bagal\desktop\projects\Radeon V3\Radeon V3\obj\Debug\Radeon V3.csproj.GenerateResource.Cache
+C:\Users\bagal\desktop\projects\Radeon V3\Radeon V3\obj\Debug\Radeon V3.exe
+C:\Users\bagal\desktop\projects\Radeon V3\Radeon V3\obj\Debug\Radeon V3.pdb
